@@ -167,3 +167,7 @@ ex)
 - 외우지말고 어떻게 인코딩되는지 흐름파악이 중요하다.
 
 ![chap02-12](../public/chap02/12_chapter.png)
+
+📍**사진 출처**
+
+- [한빛미디어 유튜브](https://www.youtube.com/watch?v=bls_GjX-4U8&list=PLVsNizTWUw7FCS83JhC1vflK8OcLRG0Hl)

@@ -148,3 +148,7 @@ Why❓</br>
 1. 데이터 버스를 통해 메모리를 저장할 값을,
 2. 주소 버스를 통해 저장할 주소를,
 3. 제어 버스를 통해 '메모리 쓰기' 제어 신호를 내보낸다.
+
+📍**사진 출처**
+
+- [한빛미디어 유튜브](https://www.youtube.com/watch?v=bls_GjX-4U8&list=PLVsNizTWUw7FCS83JhC1vflK8OcLRG0Hl)
