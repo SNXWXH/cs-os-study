@@ -53,10 +53,10 @@
     "@types/mdx" "^2.0.0"
     "@types/react" ">=16"
 
-"@napi-rs/simple-git-darwin-x64@0.1.9":
+"@napi-rs/simple-git-darwin-arm64@0.1.9":
   version "0.1.9"
-  resolved "https://registry.npmjs.org/@napi-rs/simple-git-darwin-x64/-/simple-git-darwin-x64-0.1.9.tgz"
-  integrity sha512-jBR2xS9nVPqmHv0TWz874W0m/d453MGrMeLjB+boK5IPPLhg3AWIZj0aN9jy2Je1BGVAa0w3INIQJtBBeB6kFA==
+  resolved "https://registry.npmjs.org/@napi-rs/simple-git-darwin-arm64/-/simple-git-darwin-arm64-0.1.9.tgz"
+  integrity sha512-H/F09nDgYjv4gcFrZBgdTKkZEepqt0KLYcCJuUADuxkKupmjLdecMhypXLk13AzvLW4UQI7NlLTLDXUFLyr2BA==
 
 "@napi-rs/simple-git@^0.1.9":
   version "0.1.9"
